@@ -11,6 +11,10 @@ input {
     border: none;
 }
 
+label {
+    padding-left: 20px;
+}
+
 input: focus {
     outline: none:
 }
